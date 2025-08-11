@@ -19,7 +19,6 @@
 - 성능 평가는 **수치 지표 중심(RMSE, F1, R²)** 으로, 실무 적용을 위한 **정확·간결 문서화**를 지향합니다.
 
 ---
-
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,18 +26,35 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-ffcc4d?logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3C8031?logo=leaflet&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=catboost&logoColor=black)
 ![RandomForest](https://img.shields.io/badge/RandomForest-009688?logo=scikitlearn&logoColor=white)
+
+![PyCaret](https://img.shields.io/badge/PyCaret-ffae1a?logo=pycaret&logoColor=white)
+![H2O.ai](https://img.shields.io/badge/H2O.ai-ffdd00?logo=h2o.ai&logoColor=black)
+![Auto-sklearn](https://img.shields.io/badge/Auto--sklearn-0078D7?logo=python&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3f4f75?logo=plotly&logoColor=white)
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 

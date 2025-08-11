@@ -44,7 +44,7 @@
 | **project-statistics** | 통계 분석 기반 금융 데이터 분석 (수수료 구조 개선, 거래 성사율 인사이트) | 회귀/가설검정, 보고서화 | [📂 바로가기](https://github.com/wootae1020/project-statistics) |
 | **project-ml** | 머신러닝 기반 고객 세그먼트 분석 (지도·비지도 혼합) | XGBoost, LightGBM, SHAP | [📂 바로가기](https://github.com/wootae1020/project-ml) |
 | **project-dl** | 딥러닝 기반 지하철 혼잡도 예측 모델을 통한 광고 전략 수립 (LSTM/Transformer 실험) | TensorFlow, Keras | [📂 바로가기](https://github.com/wootae1020/project-dl) |
-| **project-mldl** | 정형 데이터 기반 AutoML 분석 및 인사이트 도출 | PyCaret, LSTM, XGBoost | [📂 바로가기](https://github.com/wootae1020/project-mldl) |
+| **project-mldl** | ML·DL 하이브리드 모델로 고객 세분화·이탈·배송일 예측을 수행해 마케팅·운영 개선 전략을 도출 | PyCaret, LSTM, XGBoost | [📂 바로가기](https://github.com/wootae1020/project-mldl) |
 | **project-fxrisk** | 환율 예측을 통한 외환 리스크 대응 전략 수립 | LSTM, Focal Loss, Optuna | [📂 바로가기](https://github.com/wootae1020/project-fxrisk) |
 
 ---

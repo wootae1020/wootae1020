@@ -21,6 +21,7 @@
 ---
 
 ### 🧰 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -29,12 +30,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3C8031?logo=leaflet&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=catboost&logoColor=black)
+![RandomForest](https://img.shields.io/badge/RandomForest-009688?logo=scikitlearn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
@@ -73,8 +77,3 @@
 - 2025 날씨 빅데이터 콘테스트 **입상**
 
 ---
-
-### 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-wootae1020%40naver.com-blue?logo=gmail&logoColor=white)](mailto:wootae1020@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-wootae1020-black?logo=github&logoColor=white)](https://github.com/wootae1020)

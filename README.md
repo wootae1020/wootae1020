@@ -75,5 +75,5 @@
 ---
 
 ### 📫 Contact
-- Email: **wootae1020@naver.com**
-- GitHub: **@wootae1020**
+- Email: [wootae1020@naver.com](mailto:wootae1020@naver.com)
+- GitHub: [@wootae1020](https://github.com/wootae1020)

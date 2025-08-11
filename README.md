@@ -75,5 +75,6 @@
 ---
 
 ### 📫 Contact
-- Email: [wootae1020@naver.com](mailto:wootae1020@naver.com)
-- GitHub: [@wootae1020](https://github.com/wootae1020)
+
+[![Email](https://img.shields.io/badge/Email-wootae1020%40naver.com-blue?logo=gmail&logoColor=white)](mailto:wootae1020@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-wootae1020-black?logo=github&logoColor=white)](https://github.com/wootae1020)

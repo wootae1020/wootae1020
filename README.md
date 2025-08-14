@@ -98,4 +98,5 @@
 - **Linguistic Characteristics of CEO Messages in Sustainability Reports: Evidence from Korea**  
   *Park, Young Min; Lee, Woo Tae; Lee, Gi Dong; Lee, Su Hyeong; Yang, Ji Yeon*  
   콘텐츠와산업, vol.7, no.2, pp.165-171, 2025  
+  - ESG 지속가능경영 보고서의 CEO 메시지를 텍스트 마이닝·언어학적 관점에서 분석한 연구  
   [🔗 View Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003207866)

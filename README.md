@@ -93,3 +93,9 @@
 - 2025 날씨 빅데이터 콘테스트 **입상**
 
 ---
+
+### 📄 Publications
+- **Linguistic Characteristics of CEO Messages in Sustainability Reports: Evidence from Korea**  
+  *Park, Young Min; Lee, Woo Tae; Lee, Gi Dong; Lee, Su Hyeong; Yang, Ji Yeon*  
+  콘텐츠와산업, vol.7, no.2, pp.165-171, 2025  
+  [🔗 View Article](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003207866)

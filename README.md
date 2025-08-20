@@ -1,7 +1,7 @@
 <!-- 프로필 README for wootae1020 -->
 <h1 align="center">Hi, I'm Woo Tae 👋</h1>
 <p align="center">
-데이터 분석가 | 시계열 예측 · 금융 데이터 · ML/DL · AI 모델 개발
+데이터 분석 | 시계열 예측 · 금융 데이터 · ML/DL · AI 모델 개발
 </p>
 
 <p align="center">

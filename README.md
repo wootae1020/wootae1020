@@ -69,13 +69,6 @@
 
 ---
 
-### 🚀 Current Project
-> **FSKU 평가지표 AI 모델 개발**  
-> 객관식·주관식 문항 세트를 기반으로 **정확하고 설명 가능한 응답**을 생성하는 AI 모델 연구.  
-> Gemini / GPT-5 기반 파인튜닝, 시스템 프롬프트 설계, 성능 지표 설계·검증 수행 중.
-
----
-
 ### 📈 GitHub Stats
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=wootae1020&show_icons=true&theme=default&hide_border=true" />
